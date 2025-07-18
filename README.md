@@ -1,38 +1,60 @@
-## Hi there! 👋
+# 👋 Hi, I'm Md. Rashedul Islam Emon
 
-I'm Md. Rashedul Islam Emon, a dedicated software developer and a lifelong learner passionate about technology and innovation.
+Welcome to my GitHub! I'm a passionate software developer and machine learning enthusiast from Bangladesh, focused on building scalable, ethical, and interpretable AI solutions—especially in healthcare.
 
-## About Me
+---
 
-I am based in Bangladesh and currently focused on enhancing my skills in software development. I enjoy exploring new technologies and contributing to open-source projects.
+## 🚀 About Me
 
-## Skills & Technologies
+- 💡 Lifelong learner with a strong foundation in ML, DL, and cloud deployment
+- 🧠 Interested in Explainable AI, early disease marker identification, and predictive modeling
+- 🌐 Actively exploring Azure ML and AWS workflows for real-world applications
+- 🛠️ Skilled in debugging, data preprocessing, and model evaluation
+- 🎯 Committed to transparency and ethical AI practices
 
-html,css,git,github,matlab,tensorflow,windows,vscode,arduino,bootstrap,linkedin
+---
 
-## GitHub Stats
+## 🧰 Tech Stack
 
-- Public Repositories: 30  
-- Followers: 1  
-- Following: 8  
+| Domain              | Tools & Frameworks                                      |
+|---------------------|---------------------------------------------------------|
+| Data Processing     | Pandas, NumPy, OpenCV, NLTK                             |
+| Modeling            | Scikit-learn, TensorFlow, PyTorch                       |
+| Visualization       | Matplotlib, Seaborn, SHAP                              |
+| Cloud Deployment    | AWS SageMaker, Azure ML, Flask, FastAPI                |
+| Containerization    | Docker                                                  |
+| CI/CD               | GitHub Actions, Azure DevOps (optional)                |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashedulemon&show_icons=true&hide_title=true&count_private=true&theme=radical)  
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulemon&layout=compact&theme=radical)
+## 📦 Featured Projects
 
-## Recent Activity
+### [End-to-End ML & DL Deployment](https://github.com/rashedulemon/endtoend)
+A complete pipeline for deploying ML/DL models to AWS and Azure. Includes:
+- ✅ Data cleaning (structured, imaging, text)
+- ✅ Model training (Random Forests, CNNs, DNNs)
+- ✅ Evaluation (Accuracy, F1-score, ROC, SHAP)
+- ✅ Cloud deployment with retraining workflows
 
-- Pushed to [HIV_Analyses_predicttion](https://github.com/rashedulemon/HIV_Analyses_predicttion)  
-- Updated [build-HM](https://github.com/rashedulemon/build-HM)  
-- Committed to [rashedulemon.github.io](https://github.com/rashedulemon/rashedulemon.github.io)  
-- Opened an issue in [EEE-Text-Books](https://github.com/rashedulemon/EEE-Text-Books)  
-- Created a pull request in [impressingCrush](https://github.com/rashedulemon/impressingCrush)  
+### [HIV_Analyses_prediction](https://github.com/rashedulemon/HIV_Analyses_predicttion)
+Predictive modeling for HIV analysis using interpretable ML techniques.
 
+---
 
-## Latest Blog Posts
+## 📊 GitHub Stats
 
-Currently, I do not have any blog posts available. Stay tuned for updates!
+- 🔭 Public Repositories: 30+
+- 👥 Followers: 1+
+- 🌱 Recent Activity: Actively pushing updates and contributing to open-source
 
-## Connect with Me
+---
 
-{}
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rashedulemon)
+- 💬 Open to collaboration on healthcare AI, cloud deployment, and ethical ML
+
+---
+
+> “Code with clarity. Deploy with purpose. Learn endlessly.” — Rashedul
+
