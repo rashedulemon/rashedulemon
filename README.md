@@ -43,7 +43,9 @@ Predictive modeling for HIV analysis using interpretable ML techniques.
 
 ## 📊 GitHub Stats & Contributions
 
-![Rashedul's GitHub Contribution Graph](https://github.com/rashedulemon/rashedulemon/blob/main/assets/contribution-graph.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashedulemon&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulemon&layout=compact&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rashedulemon&theme=github-compact)
 
 - 🔭 Repositories: 35+
 - 🧠 Recent Activity:
