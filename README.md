@@ -23,29 +23,33 @@ Welcome to my GitHub! I'm a passionate software developer and machine learning e
 | Visualization       | Matplotlib, Seaborn, SHAP                              |
 | Cloud Deployment    | AWS SageMaker, Azure ML, Flask, FastAPI                |
 | Containerization    | Docker                                                  |
-| CI/CD               | GitHub Actions, Azure DevOps (optional)                |
+| CI/CD               | GitHub Actions, Azure DevOps                           |
 
 ---
 
 ## 📦 Featured Projects
 
-### [End-to-End ML & DL Deployment](https://github.com/rashedulemon/endtoend)
+### 🔧 [End-to-End ML & DL Deployment](https://github.com/rashedulemon/endtoend)
 A complete pipeline for deploying ML/DL models to AWS and Azure. Includes:
 - ✅ Data cleaning (structured, imaging, text)
 - ✅ Model training (Random Forests, CNNs, DNNs)
 - ✅ Evaluation (Accuracy, F1-score, ROC, SHAP)
 - ✅ Cloud deployment with retraining workflows
 
-### [HIV_Analyses_prediction](https://github.com/rashedulemon/HIV_Analyses_predicttion)
+### 🧬 [HIV_Analyses_prediction](https://github.com/rashedulemon/HIV_Analyses_predicttion)
 Predictive modeling for HIV analysis using interpretable ML techniques.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
-- 🔭 Public Repositories: 30+
-- 👥 Followers: 1+
-- 🌱 Recent Activity: Actively pushing updates and contributing to open-source
+![Rashedul's GitHub Contribution Graph](https://github.com/rashedulemon/rashedulemon/blob/main/assets/contribution-graph.png)
+
+- 🔭 Repositories: 35+
+- 🧠 Recent Activity:
+  - Created 21 commits in July 2025 across 4 repositories
+  - Opened 1 pull request and 1 issue
+  - Actively pushing updates to `LearnML`, `endtoend`
 
 ---
 
@@ -57,4 +61,3 @@ Predictive modeling for HIV analysis using interpretable ML techniques.
 ---
 
 > “Code with clarity. Deploy with purpose. Learn endlessly.” — Rashedul
-
