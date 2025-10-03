@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a passionate software developer and machine learning e
 | Data Processing     | Pandas, NumPy, OpenCV, NLTK                             |
 | Modeling            | Scikit-learn, TensorFlow, PyTorch                       |
 | Visualization       | Matplotlib, Seaborn, SHAP                              |
-| Cloud Deployment    | AWS SageMaker, Azure ML, Flask, FastAPI                |
+| Cloud Deployment    | AWS, Azure ML                                           | 
 | Containerization    | Docker                                                  |
 | CI/CD               | GitHub Actions, Azure DevOps                           |
 
