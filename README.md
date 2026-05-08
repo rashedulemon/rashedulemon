@@ -115,15 +115,12 @@ An interpretable machine learning project focused on predictive HIV analysis usi
 
 ---
 
+
 ## 📊 GitHub Analytics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashedulemon&show_icons=true&theme=radical)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rashedulemon&show_icons=true&theme=radical"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulemon&layout=compact&theme=radical"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashedulemon&layout=compact&theme=radical)
 
 ---
 
