@@ -2,8 +2,6 @@
 
 # 👋 Hey, I'm Md. Rashedul Islam Emon
 
-### 🚀 Machine Learning Engineer • AI Research Enthusiast • Cloud & Deployment Explorer
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rashedulemon">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
